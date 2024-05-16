@@ -1,10 +1,12 @@
 ### Boas vindas ao meu perfil👋
 
-Meu nome é lucas santos 
+Meu nome é lucas santos 😝
 
 Estou esdudando na [Alura](https://www.alura.com.br)
-estou desenvolvendo  na linguagem javaScript
-utilizo esse espaço para minha organização  e compartilhamento dos meus projetos desenvolvidos 
+Estou desenvolvendo  na linguagem javaScript.
+Utilizo esse espaço para minha organização  e compartilhamento dos
+meus projetos desenvolvidos.
+
 
  ### você  entrar em contato comigo 📫
  00001105805396sp@al.educacao.sp.gov.br 
